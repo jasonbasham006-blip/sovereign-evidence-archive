@@ -1,1 +1,11 @@
-__MESH_JSON__
+{
+ "schema": "sovereign-evidence-archive/mesh/v1",
+ "identifier": "111118_306_923@Basham@sovereign-root",
+ "purpose": "Every claim kept and cataloged; each bound to its archival call numbers with clickable links; each connected to the pieces it corresponds to. Link out to evidence rather than dragging evidence in.",
+ "mesh_root_hash": "0a38e4f99b971019f20a92bde5382fc9c0396fc803d30abf0cb14ea23aa23cc1",
+ "node_count": 71,
+ "edge_count": 161,
+ "statuses": ["ARCHIVED_WITH_FLAGS","CORPUS_ASSERTED","CORPUS_LOCKED","DOCUMENTED","DOCUMENTED_CORRECTED","DOCUMENTED_DISTINCT","DOCUMENTED_PULL_PENDING","EMPIRICAL","EXACT","EXACT_DOCUMENTARY","EXACT_UNRESOLVED","EXACT_VERIFIED_2026_09_04","MIXED","OPEN","QUARANTINED","T1_LOCKED_PHYSICAL","UNRESOLVED_CORPUS","UNRESOLVED_EXCLUDED"],
+ "regeneration": "python3 tools/build_mesh.py . — rebuilds this file and index.html deterministically from the node definitions; root hash must equal mesh_root_hash",
+ "note": "Full node records are maintained in tools/build_mesh.py (the canonical source). This header is the machine-readable index; clone and run the builder to expand the complete node set with per-node sha256."
+}
