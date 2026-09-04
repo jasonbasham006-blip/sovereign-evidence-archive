@@ -1,0 +1,53 @@
+{
+  "schema": "sovereign-evidence-archive/state/v1",
+  "identifier": "111118_306_923@Basham@sovereign-root",
+  "updated_utc": "2026-09-04T00:00:00Z",
+  "seals": {
+    "daive_engine_v5": "e152b29b5f3b092f7273e7f86108a98ada2f4d5af51d66152964d40fbe89b213",
+    "payload_audit": "jasonbasham006-blip/daive-engine:SovereignFortress_Audit_Payload_v4_1_0.json (30/30)"
+  },
+  "repos": {
+    "engine": "jasonbasham006-blip/daive-engine (public)",
+    "mesh": "jasonbasham006-blip/sovereign-mesh-network-v42 (private)",
+    "archive": "jasonbasham006-blip/sovereign-evidence-archive (public)"
+  },
+  "key_registry": {
+    "polarization_root": "11111_212_923_1118_1190_1420_1111_9161",
+    "crt_moduli": [49, 1118, 79, 107],
+    "x_crt": 3398738,
+    "residues": [0, 18, 0, 97],
+    "extended_product_m": 463072246,
+    "identifier_components": {"111118_mod49": 35, "306_mod49": 12, "923_mod49": 41}
+  },
+  "waves": [
+    {"id": "W-01", "ts_utc": "2026-09-01", "agent": "kimi-swarm", "summary": "Sovereign Route assembled; BAPTIST apparatus, mass constants, beryllium lattice, ring walk, 49-word matrix verified EXACT; NARA numeric-search claim falsified empirically; geology floor documented; stellar.toml confirmed"},
+    {"id": "W-02", "ts_utc": "2026-09-01", "agent": "kimi-swarm", "summary": "Vessel wave: Roadshow appraisal verified (Dunavant/Doyle, $10-20k, $58k comparable); gift-note triangulation; Avery arms identified (tincture-exact); Packard identity documented; Warner 1861 geography to one block; Ensisheim LL6/W0 taxonomy; weights 230/238 dwt on God Seal"},
+    {"id": "W-03", "ts_utc": "2026-09-01", "agent": "kimi-swarm", "summary": "External-AI peer review: 'lowercase i' response dissected; fabrications falsified; genuine discovery promoted — MSA chancery case 1118 (Chamier 'Carolina Felix', S512-2-1191, CR 34:246, 1785)"},
+    {"id": "W-04", "ts_utc": "2026-09-01", "agent": "kimi-swarm", "summary": "Sovereign Route Archive Engine webapp: 67-archive root-key search console built and versioned (8 LIVE APIs + 59 LINK archives)"},
+    {"id": "W-05", "ts_utc": "2026-09-01", "agent": "kimi-swarm", "summary": "Heckscher-Bowman comparanda: No. 58 Lucretia Chandler sugar dish (1761-62, ~14 oz, ledger 11 Mar 1762) anchors commission genre; Paine-Orne service documented; tincture lock; MSA Vol 426 plate; OCR mangling caution"},
+    {"id": "W-06", "ts_utc": "2026-09-02", "agent": "kimi-swarm", "summary": "MHS ledger wave: 7s/oz rate lock (6 lines); Avery 'By Silver Receiv'd 17:10' customer-supplied metal photographed; 'Avery James 79' in ledger index; Simon Willard contra credits; Shattuck Engine page corrected to 1783-97; £ tally page computed £284-10-6 vs written £250-10-0 (UNRESOLVED delta £34-0-6); slip margins insufficient for reconstruction (honest negative)"},
+    {"id": "W-07", "ts_utc": "2026-09-02", "agent": "kimi-swarm", "summary": "DAIVE v5.0 engine built: full-chi 477.5 fix, subgroup order 7 fix, 55-gate corpus lattice, self-verify/heal/initiate/evolve, seal e152b29b stable cross-time; 27/27 verifier"},
+    {"id": "W-08", "ts_utc": "2026-09-02", "agent": "kimi-swarm", "summary": "SovereignFortress payload v4.1.0: v4.0.0 audited — residue swap, broken Garner block, corrupted Hamming row, heptaract 7d, Farey error; all corrected; payload_audit 30/30"},
+    {"id": "W-09", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "RTL SECDED suite completed and simulated under Icarus 12.0 (built from source): 450/450 beats, 0 failures"},
+    {"id": "W-10", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "sovereign-mesh: genesis.json + asyncio node.py built (external AI's claimed package never existed — honest negative); live 2-node test 5/5 PASS, identical chains h=4"},
+    {"id": "W-11", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "Hub verification: mesh genesis CRT lock recomputed PASS; daive-engine lock byte-identical; banned 'DO NOT FILE' phrasing flagged"},
+    {"id": "W-12", "ts_utc": "2026-09-04", "agent": "kimi-swarm", "summary": "Hub control (user-granted): banned phrasing removed from mesh genesis (55f7435); mesh hardware family completed (ba072c3); public daive-engine completed (engine+payload+auditor+verifier); fresh-clone proof: seal reproduces, audits pass"}
+  ],
+  "open_tasks": [
+    {"id": "OT-01", "task": "Pull Chancery Record Book 151 p.348 (MSA S517) — Oulton 'The Fellowship' decree", "status": "open"},
+    {"id": "OT-02", "task": "Pull MSA S512-2-1191 — chancery case 1118, Estate of Daniel Chamier 'Carolina Felix' partition (CR 34:246, 1785)", "status": "open"},
+    {"id": "OT-03", "task": "Vessel four-test suite: XRF lid seams + finial aperture; CT finial (Fe-Ni inclusion); Raman pedestal holes (ZnO 437/cm); raking-light macro of scratch weight", "status": "open"},
+    {"id": "OT-04", "task": "NATF 85 submission for Shattuck/Avery/Collins pension + bounty-land files", "status": "open"},
+    {"id": "OT-05", "task": "MdHS Andrew E. Warner Account Books 1839-1860 — search for 1861 lid-repair entry", "status": "open"},
+    {"id": "OT-06", "task": "MHS Revere Waste Book vol.1 (1761-1783, digitized) — search sugar-dish commission at 11 oz 10 dwt", "status": "open"},
+    {"id": "OT-07", "task": "MHS physical volumes / reproduction requests for slip-covered leaves + missing page 17", "status": "open"},
+    {"id": "OT-08", "task": "Receive from operator: 1761 commission document; optical-phenomena plates (snake/phoenix/doorway)", "status": "open"},
+    {"id": "OT-09", "task": "'Engine' lexical search across digitized Revere volumes (Shattuck page anomaly)", "status": "open"},
+    {"id": "OT-10", "task": "Dexter-side impalement identification (husband's family arms on vessel)", "status": "open"}
+  ],
+  "governance": {
+    "proof_address": "19UdRsPi5LMQo9a78n2f9QUDz4wJ4pptt4",
+    "status": "BURNED / DERIVATION_PROOF_ONLY",
+    "rules": ["no_funding", "no_key_derivation", "no_title_by_address", "no_fabrication"]
+  }
+}
