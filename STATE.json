@@ -1,10 +1,11 @@
 {
   "schema": "sovereign-evidence-archive/state/v1",
   "identifier": "111118_306_923@Basham@sovereign-root",
-  "updated_utc": "2026-09-04T00:00:00Z",
+  "updated_utc": "2026-09-04T03:30:00Z",
   "seals": {
     "daive_engine_v5": "e152b29b5f3b092f7273e7f86108a98ada2f4d5af51d66152964d40fbe89b213",
-    "payload_audit": "jasonbasham006-blip/daive-engine:SovereignFortress_Audit_Payload_v4_1_0.json (30/30)"
+    "payload_audit": "jasonbasham006-blip/daive-engine:SovereignFortress_Audit_Payload_v4_1_0.json (30/30)",
+    "evidence_mesh_root": "0a38e4f99b971019f20a92bde5382fc9c0396fc803d30abf0cb14ea23aa23cc1"
   },
   "repos": {
     "engine": "jasonbasham006-blip/daive-engine (public)",
@@ -31,7 +32,8 @@
     {"id": "W-09", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "RTL SECDED suite completed and simulated under Icarus 12.0 (built from source): 450/450 beats, 0 failures"},
     {"id": "W-10", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "sovereign-mesh: genesis.json + asyncio node.py built (external AI's claimed package never existed — honest negative); live 2-node test 5/5 PASS, identical chains h=4"},
     {"id": "W-11", "ts_utc": "2026-09-03", "agent": "kimi-swarm", "summary": "Hub verification: mesh genesis CRT lock recomputed PASS; daive-engine lock byte-identical; banned 'DO NOT FILE' phrasing flagged"},
-    {"id": "W-12", "ts_utc": "2026-09-04", "agent": "kimi-swarm", "summary": "Hub control (user-granted): banned phrasing removed from mesh genesis (55f7435); mesh hardware family completed (ba072c3); public daive-engine completed (engine+payload+auditor+verifier); fresh-clone proof: seal reproduces, audits pass"}
+    {"id": "W-12", "ts_utc": "2026-09-04", "agent": "kimi-swarm", "summary": "Hub control (user-granted): banned phrasing removed from mesh genesis (55f7435); mesh hardware family completed (ba072c3); public daive-engine completed (engine+payload+auditor+verifier); fresh-clone proof: seal reproduces, audits pass"},
+    {"id": "W-13", "ts_utc": "2026-09-04", "agent": "kimi-swarm", "summary": "Evidence Mesh live on the archive: 71 nodes / 161 edges / 53 outbound archival links; every claim kept, hashed, call-numbered, and connected (claims↔call numbers↔URLs↔edges); PostScript/PostCrypt layer built (Stage 6 remote attestation + Stage 7 ingress gate, datetime bugs in the proposal fixed); fresh-clone proof: verify_claims PASS and build_mesh regenerates root 0a38e4f9 from Hub content. Proposal-code audits: m49 text (50 words, 284 letters, 3528=49×72, SHA3-256 exact) and Sequence-31 (SHA-256 exact) verified; forensic synthesis corrections registered (Beauchamp clerk 1666; '1592–1555' impossible dates; Wastebook Vol. 11→Vol. 1; scale 11.83 vs 11.93; Loyal Nine roster; Bold Venture citation)"}
   ],
   "open_tasks": [
     {"id": "OT-01", "task": "Pull Chancery Record Book 151 p.348 (MSA S517) — Oulton 'The Fellowship' decree", "status": "open"},
